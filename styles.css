@@ -1,3 +1,8 @@
-h2 {
-  color: blue;
+.oneman {
+  border-width: 4px;
+  border-style: double;
+  border-color: purple;
+  background-color: black;
+  color: white;
+  text-align: center;
 }
